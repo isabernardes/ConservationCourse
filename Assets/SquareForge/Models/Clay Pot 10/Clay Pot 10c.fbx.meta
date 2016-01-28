@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: e6c062a48b811b34388dc78f11b8953a
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pot_cell.015
+    100004: pot_cell.016
+    100006: pot_cell.017
+    100008: pot_cell.018
+    100010: pot_cell.019
+    100012: pot_cell.020
+    100014: pot_cell.021
+    100016: pot_cell.022
+    100018: pot_cell.023
+    100020: pot_cell.024
+    400000: //RootNode
+    400002: pot_cell.015
+    400004: pot_cell.016
+    400006: pot_cell.017
+    400008: pot_cell.018
+    400010: pot_cell.019
+    400012: pot_cell.020
+    400014: pot_cell.021
+    400016: pot_cell.022
+    400018: pot_cell.023
+    400020: pot_cell.024
+    2300000: pot_cell.015
+    2300002: pot_cell.016
+    2300004: pot_cell.017
+    2300006: pot_cell.018
+    2300008: pot_cell.019
+    2300010: pot_cell.020
+    2300012: pot_cell.021
+    2300014: pot_cell.022
+    2300016: pot_cell.023
+    2300018: pot_cell.024
+    3300000: pot_cell.015
+    3300002: pot_cell.016
+    3300004: pot_cell.017
+    3300006: pot_cell.018
+    3300008: pot_cell.019
+    3300010: pot_cell.020
+    3300012: pot_cell.021
+    3300014: pot_cell.022
+    3300016: pot_cell.023
+    3300018: pot_cell.024
+    4300000: pot_cell.024
+    4300002: pot_cell.023
+    4300004: pot_cell.022
+    4300006: pot_cell.021
+    4300008: pot_cell.020
+    4300010: pot_cell.019
+    4300012: pot_cell.018
+    4300014: pot_cell.017
+    4300016: pot_cell.016
+    4300018: pot_cell.015
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

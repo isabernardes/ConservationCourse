@@ -1,0 +1,23 @@
+Thank you for your interest in my collection of 'Damaged Clay Pottery'. This is my second contribution to the Unity Asset Store. Please be kind while rating.
+
+If you have any questions or concerns about this product, please email me directly. (see contact info below) By communicating directly with me and working out whatever problems may arise, we can help each other while benefitting everyone else too. I'll do whatever I can to iron things out with the hopes to deliver a product that you will want to use in your own games.
+
+The concept of SquareForge's Damaged Clay Pottery is simple. I've created 15 unique pot designs, and from each design I put together 6 different variations of pots composed of 8 to 15 shattered fragments. This allows for a wide variety of different ways in which the pots can be broken. Each fragment uses a rigidbody and mesh collider, and simply falls apart when touched with enough force by colliding objects. (You'll need to provide the scripting to get this working for your specific project, but I have included a Character Controller with a simple script to demonstrate how this can be done) See the 'Dynamic Pots Gallery' Demo or look in the /Scripts/ folder to find the 'ObjectPhysics.cs' (C# Script) which allows the Character Controller to interact with the Dynamic Pots.
+
+To use these Dynamic or Static Pots, simply drag and drop any of the Prefabs into your scene. Use the 'First Person Controller' included in the /Demo/ to interact with Dynamic pots right out of the box. You'll need to analyze the simple C# Script to apply the necessary scripting to your own Controller. You may rescale the objects to fit your environment. I've included a couple of demo scenes that showcases each of the various models in a basic dungeon setting. 
+
+STANDARD ASSETS:
+In my demo scenes, I use the 'First Person Character Controller' provided by Unity. I've moved the controller from the original /Standard Assets/ location, into the /Demo/ so as to package everything together. If you are not using the demos (or the included Character Controller) and want to free up a few megabytes of space, you may safely remove the /Demo/ folder from your project. 
+
+If you use my Damaged Clay Pottery in one of your games, I'd love to see them in action. Please send me an email and let me know about your game projects. If you find some creative way to use these objects, and want to share your discovery with others, please don't hesitate to contact me too.
+
+CHANGING TEXTURES:
+The terracotta 'clay' texture used in my models came from a photograph that I edited to make seamless. I've also put together a matching normals map. If you want to try replacing the texture with one of your own, just be sure it's a square shaped seamless texture. The general size of the air bubbles or pits could be about the same as mine, or you could fine-tune this to your personal tastes. I think you'll find that it's very forgiving. You may want to create a new 'normals map' too. 
+
+If creating textures is not your thing, you could try downloading free seamless clay textures from online resources. Remember, it's not necessary to swap out graphics, but does open up more possibilities. You've got the Unity Prefabs ready to drop into your game and you've got the original graphic files for reference if you decide to customize the textures. Have fun! I hope you enjoy this Unity Package!
+
+Billy McDaniel
+
+SquareForge
+http://www.squareforge.com
+info@squareforge.com

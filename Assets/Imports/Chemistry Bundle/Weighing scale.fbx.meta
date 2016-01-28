@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: a567d2f72a419a84fbbfdc6b2d152ff6
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Balanza_analitica_smoot:Cristal
+    100002: Balanza_analitica_smoot:Cristal4
+    100004: Balanza_analitica_smoot:Cristal5
+    100006: box
+    100008: box01
+    100010: crystal
+    100012: //RootNode
+    100014: weight
+    100016: Cristal
+    100018: Cristal4
+    100020: Cristal5
+    400000: Balanza_analitica_smoot:Cristal
+    400002: Balanza_analitica_smoot:Cristal4
+    400004: Balanza_analitica_smoot:Cristal5
+    400006: box
+    400008: box01
+    400010: crystal
+    400012: //RootNode
+    400014: weight
+    400016: Cristal
+    400018: Cristal4
+    400020: Cristal5
+    2300000: Balanza_analitica_smoot:Cristal
+    2300002: Balanza_analitica_smoot:Cristal4
+    2300004: Balanza_analitica_smoot:Cristal5
+    2300006: box
+    2300008: box01
+    2300010: weight
+    2300012: Cristal
+    2300014: Cristal4
+    2300016: Cristal5
+    3300000: Balanza_analitica_smoot:Cristal
+    3300002: Balanza_analitica_smoot:Cristal4
+    3300004: Balanza_analitica_smoot:Cristal5
+    3300006: box
+    3300008: box01
+    3300010: weight
+    3300012: Cristal
+    3300014: Cristal4
+    3300016: Cristal5
+    4300000: weight
+    4300002: box
+    4300004: Balanza_analitica_smoot:Cristal
+    4300006: Balanza_analitica_smoot:Cristal5
+    4300008: Balanza_analitica_smoot:Cristal4
+    4300010: box01
+    4300012: Cristal
+    4300014: Cristal5
+    4300016: Cristal4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
