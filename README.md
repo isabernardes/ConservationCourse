@@ -5,6 +5,7 @@ This project is comes from an idea for an non-governmental organization with the
 Requirements:
 
 Unity3D
+
 Leap motion controller
 
 Blog:
