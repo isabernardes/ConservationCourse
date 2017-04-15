@@ -17,7 +17,6 @@ https://codingheritage.wordpress.com/
 
 ![Screenshot](screenshot_11.png)
 ![Screenshot](screenshot_13.png)
-![Screenshot](screenshot_14.png)
 
 
 # MIT License
